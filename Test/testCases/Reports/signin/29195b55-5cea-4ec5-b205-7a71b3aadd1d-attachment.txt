@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_signin.py:66 ********** successfully signin *********
+[32mINFO    [0m root:test_signin.py:68 ********login with valid username and password *********
+[32mINFO    [0m root:test_signin.py:69 ********routed on organisation list page *********
+[32mINFO    [0m root:test_signin.py:71 ********clicked on backward optin *********
+[32mINFO    [0m root:test_signin.py:72 ********logout from application*********
+[32mINFO    [0m root:test_signin.py:75 ******** found text sign in as different user *********
+[32mINFO    [0m root:test_signin.py:44 ****test case pass*********

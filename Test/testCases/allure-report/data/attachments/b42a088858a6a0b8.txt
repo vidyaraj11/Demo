@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_OrganisationListPage.py:67 ********** successfully signin *********
+[32mINFO    [0m root:test_OrganisationListPage.py:69 **** routed on organisation list page*********
+[32mINFO    [0m root:test_OrganisationListPage.py:71 **** clicked on profile icon on organisation list page*********

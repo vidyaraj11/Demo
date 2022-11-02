@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_HistorySessionPage.py:71 ********** successfully signin *********
+[32mINFO    [0m root:test_HistorySessionPage.py:73 ********routed on organisation list page *********

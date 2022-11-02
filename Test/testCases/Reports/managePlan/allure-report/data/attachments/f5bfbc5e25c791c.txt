@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_managePlan.py:65 ********** successfully signin *********
+[32mINFO    [0m root:test_managePlan.py:67 ********routed on organisation list page *********
+[32mINFO    [0m root:test_managePlan.py:69 ********clicked on explore button *********
+[32mINFO    [0m root:test_managePlan.py:72 ********clicked on manage plan *********
+[32mINFO    [0m root:test_managePlan.py:74 ********** Routed on manage plan page *********
+[32mINFO    [0m root:test_managePlan.py:76 ******** retention period is present on manage plan page *********
+[32mINFO    [0m root:test_managePlan.py:77 ****test case pass*********

@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_OrganisationListPage.py:57 ********** successfully signin *********
+[32mINFO    [0m root:test_OrganisationListPage.py:59 **** routed on organisation list page*********
+[32mINFO    [0m root:test_OrganisationListPage.py:61 **** CloudifyLabs.io found*********
+[32mINFO    [0m root:test_OrganisationListPage.py:62 ***** test case pass *********

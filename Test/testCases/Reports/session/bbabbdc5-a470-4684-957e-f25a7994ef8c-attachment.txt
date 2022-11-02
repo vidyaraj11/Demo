@@ -1,0 +1,6 @@
+[32mINFO    [0m root:SessionPage.py:141 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:143 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:145 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:147 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:149 ***** manage plan has been found inside profile on session page ********
+[32mINFO    [0m root:SessionPage.py:150 ****test case pass ********

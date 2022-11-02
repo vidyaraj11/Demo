@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_managePlan.py:48 ********** successfully signin *********
+[32mINFO    [0m root:test_managePlan.py:50 ********routed on organisation list page *********
+[32mINFO    [0m root:test_managePlan.py:52 ********clicked on explore button *********
+[32mINFO    [0m root:test_managePlan.py:55 ********clicked on manage plan *********
+[32mINFO    [0m root:test_managePlan.py:57 ********** Routed on manage plan page *********
+[32mINFO    [0m root:test_managePlan.py:59 ******** parallel session text is present on manage plan page *********
+[32mINFO    [0m root:test_managePlan.py:60 ****test case pass*********

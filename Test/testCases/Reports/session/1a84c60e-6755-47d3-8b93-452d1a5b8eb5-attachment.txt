@@ -1,0 +1,7 @@
+[32mINFO    [0m root:SessionPage.py:199 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:201 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:203 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:205 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:207 ***** clicked on filter table on session page ********
+[32mINFO    [0m root:SessionPage.py:209 ***** save logs text has been found inside filter table on session page ********
+[32mINFO    [0m root:SessionPage.py:210 ****test case pass ********

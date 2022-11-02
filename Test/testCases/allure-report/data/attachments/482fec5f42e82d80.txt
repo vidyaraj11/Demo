@@ -1,0 +1,9 @@
+[32mINFO    [0m root:test_PricingPage.py:113 ********** successfully signin *********
+[32mINFO    [0m root:test_PricingPage.py:114 **** routed on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:117 *****clicked on create button on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:119 **** routed on create organisation page *********
+[32mINFO    [0m root:test_PricingPage.py:121 *****filled new organisation name on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:123 *****clicked on create button on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:124 **** routed on pricing page *********
+[32mINFO    [0m root:test_PricingPage.py:127 ***** parallel period text found on pricing page *******
+[32mINFO    [0m root:test_PricingPage.py:128 ***** test case pass *********

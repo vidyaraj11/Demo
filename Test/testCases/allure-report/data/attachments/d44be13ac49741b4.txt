@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_SignInPage.py:91 ********** successfully signin *********
+[32mINFO    [0m root:test_SignInPage.py:94 ********** Username textbox is present on signin page *********
+[32mINFO    [0m root:test_SignInPage.py:97 ********** Password textbox is present on signin page *********
+[32mINFO    [0m root:test_SignInPage.py:100 ********** Forgot password option is present on signin page *********
+[32mINFO    [0m root:test_SignInPage.py:103 ********** sign in button is present on sign in page *********
+[32mINFO    [0m root:test_SignInPage.py:106 ********** sign up option present on sign in page *********
+[32mINFO    [0m root:test_SignInPage.py:44 ****test case pass*********

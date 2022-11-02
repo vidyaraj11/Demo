@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_PricingPage.py:153 ********** successfully signin *********
+[32mINFO    [0m root:test_PricingPage.py:154 **** routed on organisation list page*********

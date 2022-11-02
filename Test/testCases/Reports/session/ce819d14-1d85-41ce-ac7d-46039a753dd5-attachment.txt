@@ -1,0 +1,6 @@
+[32mINFO    [0m root:SessionPage.py:113 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:115 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:117 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:119 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:121 ***** profile icon has found on session page ********
+[32mINFO    [0m root:SessionPage.py:122 ****test case pass ********

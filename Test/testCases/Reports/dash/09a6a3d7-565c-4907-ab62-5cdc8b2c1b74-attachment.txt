@@ -1,0 +1,6 @@
+[32mINFO    [0m root:HistorySessionPage.py:153 ********** successfully signin *********
+[32mINFO    [0m root:HistorySessionPage.py:155 ********routed on organisation list page *********
+[32mINFO    [0m root:HistorySessionPage.py:157 ********clicked on explore button *********
+[32mINFO    [0m root:HistorySessionPage.py:160 ********** Routed on history session page *********
+[32mINFO    [0m root:HistorySessionPage.py:162 ***** browser version text found ********
+[32mINFO    [0m root:HistorySessionPage.py:163 ***** test case pass ********

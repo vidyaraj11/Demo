@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_dashboard.py:108 ********** successfully signin *********
+[32mINFO    [0m root:test_dashboard.py:110 ********routed on organisation list page *********
+[32mINFO    [0m root:test_dashboard.py:112 ********clicked on explore button *********
+[32mINFO    [0m root:test_dashboard.py:115 ********routed on dashboard page *********
+[32mINFO    [0m root:test_dashboard.py:120 ******** start date, end date and save button found on dashboard page *********

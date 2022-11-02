@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Sep 30 19:07:54 IST 2022","Fri Sep 30 19:08:01 IST 2022","7013","","test_managePlan","TestManagePlanPage","","","test_planDuration_onManagePlan",""
+"passed","Fri Sep 30 19:07:14 IST 2022","Fri Sep 30 19:07:24 IST 2022","9910","","test_managePlan","TestManagePlanPage","","","test_retentionPeriod_onManagePlan",""
+"passed","Fri Sep 30 19:06:37 IST 2022","Fri Sep 30 19:06:44 IST 2022","7054","","test_managePlan","TestManagePlanPage","","","test_parallelSession_onManagePlan",""
+"broken","Fri Sep 30 19:08:31 IST 2022","Fri Sep 30 19:08:34 IST 2022","3815","","test_managePlan","TestManagePlanPage","","","test_planText_onManagePlan",""

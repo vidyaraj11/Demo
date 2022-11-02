@@ -1,0 +1,7 @@
+[32mINFO    [0m root:SessionPage.py:215 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:217 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:219 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:221 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:223 ***** clicked on filter table on session page ********
+[32mINFO    [0m root:SessionPage.py:225 ***** reset text has been found inside filter table on session page ********
+[32mINFO    [0m root:SessionPage.py:226 ****test case pass ********

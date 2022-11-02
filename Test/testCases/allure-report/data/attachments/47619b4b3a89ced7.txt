@@ -1,0 +1,15 @@
+[32mINFO    [0m root:test_SessionPage.py:246 ********** successfully signin *********
+[32mINFO    [0m root:test_SessionPage.py:248 ********routed on organisation list page *********
+[32mINFO    [0m root:test_SessionPage.py:250 ********clicked on create button on organisation list page *********
+[32mINFO    [0m root:test_SessionPage.py:253 ******** filled new org name on create organisation page *********
+[32mINFO    [0m root:test_SessionPage.py:255 ******** clicked on create button to create new org on create org page *********
+[32mINFO    [0m root:test_SessionPage.py:257 ********routed on pricing page *********
+[32mINFO    [0m root:test_SessionPage.py:259 ******** clicked on confirm button on pricing page *********
+[32mINFO    [0m root:test_SessionPage.py:261 ********routed on stripe page *********
+[32mINFO    [0m root:test_SessionPage.py:263 ******** clicked on change option on stripe page *********
+[32mINFO    [0m root:test_SessionPage.py:265 ******** filled card number on stripe page *********
+[32mINFO    [0m root:test_SessionPage.py:267 ******** filled card expiry on stripe page *********
+[32mINFO    [0m root:test_SessionPage.py:269 ******** filled card cvc on stripe page *********
+[32mINFO    [0m root:test_SessionPage.py:271 ******** filled card name on stripe page *********
+[32mINFO    [0m root:test_SessionPage.py:273 ******** filled billing address on stripe page *********
+[32mINFO    [0m root:test_SessionPage.py:275 ******** clicked on subscribe button on stripe page *********

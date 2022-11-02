@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_managePlan.py:82 ********** successfully signin *********
+[32mINFO    [0m root:test_managePlan.py:84 ********routed on organisation list page *********
+[32mINFO    [0m root:test_managePlan.py:86 ********clicked on explore button *********
+[32mINFO    [0m root:test_managePlan.py:89 ********clicked on manage plan *********
+[32mINFO    [0m root:test_managePlan.py:91 ********** Routed on manage plan page *********
+[32mINFO    [0m root:test_managePlan.py:93 ******** plan duration text is present on manage plan page *********
+[32mINFO    [0m root:test_managePlan.py:94 ****test case pass*********

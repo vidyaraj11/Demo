@@ -1,0 +1,6 @@
+[32mINFO    [0m root:SessionPage.py:155 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:157 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:159 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:161 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:163 ***** setting has been found inside profile on session page ********
+[32mINFO    [0m root:SessionPage.py:164 ****test case pass ********

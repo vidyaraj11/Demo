@@ -1,0 +1,9 @@
+[32mINFO    [0m root:test_PricingPage.py:93 ********** successfully signin *********
+[32mINFO    [0m root:test_PricingPage.py:94 **** routed on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:97 *****clicked on create button on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:99 **** routed on create organisation page *********
+[32mINFO    [0m root:test_PricingPage.py:101 *****filled new organisation name on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:103 *****clicked on create button on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:104 **** routed on pricing page *********
+[32mINFO    [0m root:test_PricingPage.py:107 ***** parallel session text found on pricing page *******
+[32mINFO    [0m root:test_PricingPage.py:108 ***** test case pass *********

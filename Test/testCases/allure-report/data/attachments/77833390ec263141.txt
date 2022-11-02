@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_SettingPage.py:99 ********** successfully signin *********
+[32mINFO    [0m root:test_SettingPage.py:101 ********routed on organisation list page *********

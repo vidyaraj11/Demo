@@ -1,0 +1,4 @@
+[32mINFO    [0m root:SessionPage.py:326 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:328 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:330 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:332 ********** Routed on session page *********

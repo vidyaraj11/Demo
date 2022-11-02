@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_DashboardPage.py:76 ********** successfully signin *********
+[32mINFO    [0m root:test_DashboardPage.py:78 ********routed on organisation list page *********

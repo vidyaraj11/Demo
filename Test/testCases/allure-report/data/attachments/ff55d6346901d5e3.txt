@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_ManagePlanPage.py:116 ********** successfully signin *********
+[32mINFO    [0m root:test_ManagePlanPage.py:118 ********routed on organisation list page *********

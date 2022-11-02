@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_managePlan.py:116 ********** successfully signin *********
+[32mINFO    [0m root:test_managePlan.py:118 ********routed on organisation list page *********
+[32mINFO    [0m root:test_managePlan.py:120 ********clicked on explore button *********
+[32mINFO    [0m root:test_managePlan.py:123 ********clicked on manage plan *********
+[32mINFO    [0m root:test_managePlan.py:125 ********** Routed on manage plan page *********

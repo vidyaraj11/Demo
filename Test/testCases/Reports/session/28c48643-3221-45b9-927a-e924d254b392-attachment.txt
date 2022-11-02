@@ -1,0 +1,6 @@
+[32mINFO    [0m root:SessionPage.py:85 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:87 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:89 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:91 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:93 ***** view column has found on session page ********
+[32mINFO    [0m root:SessionPage.py:94 ****test case pass ********

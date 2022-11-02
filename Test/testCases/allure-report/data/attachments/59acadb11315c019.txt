@@ -1,0 +1,9 @@
+[32mINFO    [0m root:test_PricingPage.py:153 ********** successfully signin *********
+[32mINFO    [0m root:test_PricingPage.py:154 **** routed on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:157 *****clicked on create button on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:159 **** routed on create organisation page *********
+[32mINFO    [0m root:test_PricingPage.py:161 *****filled new organisation name on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:163 *****clicked on create button on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:164 **** routed on pricing page *********
+[32mINFO    [0m root:test_PricingPage.py:167 ***** retention period text found on pricing page *******
+[32mINFO    [0m root:test_PricingPage.py:168 ***** test case pass *********

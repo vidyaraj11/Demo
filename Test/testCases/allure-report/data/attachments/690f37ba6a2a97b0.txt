@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_SignInPage.py:81 ********** successfully signin *********
+[32mINFO    [0m root:test_SignInPage.py:83 ********** unable to login with invalid username and password *********
+[32mINFO    [0m root:test_SignInPage.py:86 ********** invalid msg text found *********
+[32mINFO    [0m root:test_SignInPage.py:44 ****test case pass*********

@@ -1,0 +1,5 @@
+[32mINFO    [0m root:DashboardPage.py:93 ********** successfully signin *********
+[32mINFO    [0m root:DashboardPage.py:95 ********routed on organisation list page *********
+[32mINFO    [0m root:DashboardPage.py:97 ********clicked on explore button *********
+[32mINFO    [0m root:DashboardPage.py:100 ********routed on dashboard page *********
+[32mINFO    [0m root:DashboardPage.py:103 ******** Recent Activity text found on dashboard page *********

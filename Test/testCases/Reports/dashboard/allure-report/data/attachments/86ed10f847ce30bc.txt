@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_dashboard.py:78 ********** successfully signin *********
+[32mINFO    [0m root:test_dashboard.py:80 ********routed on organisation list page *********
+[32mINFO    [0m root:test_dashboard.py:82 ********clicked on explore button *********
+[32mINFO    [0m root:test_dashboard.py:85 ********routed on dashboard page *********
+[32mINFO    [0m root:test_dashboard.py:88 ******** chart text found on dashboard page *********

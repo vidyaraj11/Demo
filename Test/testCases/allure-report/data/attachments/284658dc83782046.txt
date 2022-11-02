@@ -1,0 +1,9 @@
+[32mINFO    [0m root:test_PricingPage.py:213 ********** successfully signin *********
+[32mINFO    [0m root:test_PricingPage.py:214 **** routed on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:217 *****clicked on create button on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:219 **** routed on create organisation page *********
+[32mINFO    [0m root:test_PricingPage.py:221 *****filled new organisation name on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:223 *****clicked on create button on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:224 **** routed on pricing page *********
+[32mINFO    [0m root:test_PricingPage.py:227 ***** cloudify.io text found on pricing page *******
+[32mINFO    [0m root:test_PricingPage.py:228 ***** test case pass *********

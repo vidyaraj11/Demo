@@ -1,0 +1,2 @@
+pytest - v - s - m scenario - n 4 DashboardPage.py --capture= tee-sys
+pytest -v -s -m scenario -n 4 HistorySessionPage.py --capture=tee-sys

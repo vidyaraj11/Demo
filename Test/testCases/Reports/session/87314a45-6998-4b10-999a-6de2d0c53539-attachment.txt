@@ -1,0 +1,7 @@
+[32mINFO    [0m root:SessionPage.py:183 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:185 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:187 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:189 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:191 ***** clicked on filter table on session page ********
+[32mINFO    [0m root:SessionPage.py:193 ***** screen resolution text has been found inside filter table on session page ********
+[32mINFO    [0m root:SessionPage.py:194 ****test case pass ********

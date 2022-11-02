@@ -1,0 +1,6 @@
+[32mINFO    [0m root:HistorySessionPage.py:169 ********** successfully signin *********
+[32mINFO    [0m root:HistorySessionPage.py:171 ********routed on organisation list page *********
+[32mINFO    [0m root:HistorySessionPage.py:173 ********clicked on explore button *********
+[32mINFO    [0m root:HistorySessionPage.py:176 ********** Routed on history session page *********
+[32mINFO    [0m root:HistorySessionPage.py:180 ***** Session Id text found inside view column ********
+[32mINFO    [0m root:HistorySessionPage.py:181 ****test case pass*********

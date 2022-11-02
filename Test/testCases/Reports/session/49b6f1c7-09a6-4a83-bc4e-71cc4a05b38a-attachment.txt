@@ -1,0 +1,6 @@
+[32mINFO    [0m root:SessionPage.py:71 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:73 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:75 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:77 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:79 ***** search icon has found on session page ********
+[32mINFO    [0m root:SessionPage.py:80 ****test case pass*********

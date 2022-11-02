@@ -1,0 +1,8 @@
+[32mINFO    [0m root:HistorySessionPage.py:50 ********** successfully signin *********
+[32mINFO    [0m root:HistorySessionPage.py:52 ********routed on organisation list page *********
+[32mINFO    [0m root:HistorySessionPage.py:54 ********clicked on explore button *********
+[32mINFO    [0m root:HistorySessionPage.py:56 ********** Routed on session page *********
+[32mINFO    [0m root:HistorySessionPage.py:58 ********** Routed on history session page *********
+[32mINFO    [0m root:HistorySessionPage.py:62 ***** browser has been deselected ********
+[32mINFO    [0m root:HistorySessionPage.py:63 ***** browser column is not found on history session page ********
+[32mINFO    [0m root:HistorySessionPage.py:64 ****test case pass*********

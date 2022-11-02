@@ -1,0 +1,22 @@
+[32mINFO    [0m root:HistorySessionPage.py:187 ********** successfully signin *********
+[32mINFO    [0m root:HistorySessionPage.py:189 ********routed on organisation list page *********
+[32mINFO    [0m root:HistorySessionPage.py:191 ********clicked on explore button *********
+[32mINFO    [0m root:HistorySessionPage.py:194 ********** Routed on history session page *********
+[32mINFO    [0m root:HistorySessionPage.py:196 ********** check total number of session on history session page *********
+[32mINFO    [0m root:HistorySessionPage.py:198 ********** Routed on capabilities page *********
+[32mINFO    [0m root:HistorySessionPage.py:201 ***** test name has been filled ********
+[32mINFO    [0m root:HistorySessionPage.py:203 ***** browser is selected ********
+[32mINFO    [0m root:HistorySessionPage.py:205 ***** browser version is selected ********
+[32mINFO    [0m root:HistorySessionPage.py:207 ***** screen resolution is selected ********
+[32mINFO    [0m root:HistorySessionPage.py:209 ***** timeout has been filled ********
+[32mINFO    [0m root:HistorySessionPage.py:211 ***** save logs is selected on ********
+[32mINFO    [0m root:HistorySessionPage.py:213 ***** save videos is selected on ********
+[32mINFO    [0m root:HistorySessionPage.py:215 ***** run manual button has been clicked ********
+[32mINFO    [0m root:HistorySessionPage.py:217 ********** Routed second tab where you can see VNC *********
+[32mINFO    [0m root:HistorySessionPage.py:219 ********** Routed on parent page *********
+[32mINFO    [0m root:HistorySessionPage.py:221 ********** Routed on session page *********
+[32mINFO    [0m root:HistorySessionPage.py:224 ********** running session has been terminated *********
+[32mINFO    [0m root:HistorySessionPage.py:226 ********** Routed on history session  page *********
+[32mINFO    [0m root:HistorySessionPage.py:228 ********** again check total number of session on history session page *********
+[32mINFO    [0m root:HistorySessionPage.py:230 ********** total number of session is increased by 1 on history session page *********
+[32mINFO    [0m root:HistorySessionPage.py:231 ****test case pass*********

@@ -1,0 +1,20 @@
+[32mINFO    [0m root:SessionPage.py:282 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:284 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:286 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:288 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:290 ********** check total number of sessions on session page *********
+[32mINFO    [0m root:SessionPage.py:292 ********** Routed on capabilities page *********
+[32mINFO    [0m root:SessionPage.py:295 ***** test name has been filled ********
+[32mINFO    [0m root:SessionPage.py:297 ***** browser is selected ********
+[32mINFO    [0m root:SessionPage.py:299 ***** browser version is selected ********
+[32mINFO    [0m root:SessionPage.py:301 ***** screen resolution is selected ********
+[32mINFO    [0m root:SessionPage.py:303 ***** timeout has been filled ********
+[32mINFO    [0m root:SessionPage.py:305 ***** save logs is selected on ********
+[32mINFO    [0m root:SessionPage.py:307 ***** save videos is selected on ********
+[32mINFO    [0m root:SessionPage.py:309 ***** run manual button has been clicked ********
+[32mINFO    [0m root:SessionPage.py:311 ********** Routed second tab where you can see VNC *********
+[32mINFO    [0m root:SessionPage.py:313 ********** Routed on parent page *********
+[32mINFO    [0m root:SessionPage.py:315 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:317 ********** again check total number of session on history session page *********
+[32mINFO    [0m root:SessionPage.py:319 ********** total number of sessions is increased by 1 on session page *********
+[32mINFO    [0m root:SessionPage.py:320 ****test case pass ********

@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_OrganisationListPage.py:80 ********** successfully signin *********
+[32mINFO    [0m root:test_OrganisationListPage.py:81 **** routed on organisation list page*********
+[32mINFO    [0m root:test_OrganisationListPage.py:83 **** clicked backward from organisation list page*********
+[32mINFO    [0m root:test_OrganisationListPage.py:85 **** clicked forward on page*********
+[32mINFO    [0m root:test_OrganisationListPage.py:88 **** organisation text found on organisation list page*********
+[32mINFO    [0m root:test_OrganisationListPage.py:89 ****test case pass*********

@@ -1,0 +1,6 @@
+[32mINFO    [0m root:SessionPage.py:169 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:171 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:173 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:175 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:177 ***** logout button has been found inside profile on session page ********
+[32mINFO    [0m root:SessionPage.py:178 ****test case pass ********

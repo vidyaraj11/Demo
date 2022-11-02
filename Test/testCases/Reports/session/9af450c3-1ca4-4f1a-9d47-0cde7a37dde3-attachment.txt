@@ -1,0 +1,19 @@
+[32mINFO    [0m root:SessionPage.py:368 ********** successfully signin *********
+[32mINFO    [0m root:SessionPage.py:370 ********routed on organisation list page *********
+[32mINFO    [0m root:SessionPage.py:372 ********clicked on explore button *********
+[32mINFO    [0m root:SessionPage.py:374 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:376 ********** Routed on capabilities page *********
+[32mINFO    [0m root:SessionPage.py:379 ***** test name has been filled ********
+[32mINFO    [0m root:SessionPage.py:381 ***** browser is selected ********
+[32mINFO    [0m root:SessionPage.py:383 ***** browser version is selected ********
+[32mINFO    [0m root:SessionPage.py:385 ***** screen resolution is selected ********
+[32mINFO    [0m root:SessionPage.py:387 ***** timeout has been filled ********
+[32mINFO    [0m root:SessionPage.py:389 ***** save logs is selected on ********
+[32mINFO    [0m root:SessionPage.py:391 ***** save videos is selected on ********
+[32mINFO    [0m root:SessionPage.py:393 ***** run manual button has been clicked ********
+[32mINFO    [0m root:SessionPage.py:395 ********** Routed second tab where you can see VNC *********
+[32mINFO    [0m root:SessionPage.py:397 ********** Routed on parent page *********
+[32mINFO    [0m root:SessionPage.py:399 ********** Routed on session page *********
+[32mINFO    [0m root:SessionPage.py:401 ******** clicked on saved logs and videos inside view column history session  page ********
+[32mINFO    [0m root:SessionPage.py:404 ********** saved logs and videos are enabled on session page *********
+[32mINFO    [0m root:SessionPage.py:405 ****test case pass ********

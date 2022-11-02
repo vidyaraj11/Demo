@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_SingupPage.py:45 ********routed on sign up page *********

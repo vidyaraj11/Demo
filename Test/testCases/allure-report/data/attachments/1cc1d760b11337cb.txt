@@ -1,0 +1,9 @@
+[32mINFO    [0m root:test_PricingPage.py:73 ********** successfully signin *********
+[32mINFO    [0m root:test_PricingPage.py:74 **** routed on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:77 *****clicked on create button on organisation list page*********
+[32mINFO    [0m root:test_PricingPage.py:79 **** routed on create organisation page *********
+[32mINFO    [0m root:test_PricingPage.py:81 *****filled new organisation name on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:83 *****clicked on create button on create organisation page*********
+[32mINFO    [0m root:test_PricingPage.py:84 **** routed on pricing page *********
+[32mINFO    [0m root:test_PricingPage.py:87 **** organisation name found on pricing page *******
+[32mINFO    [0m root:test_PricingPage.py:88 ***** test case pass *******
