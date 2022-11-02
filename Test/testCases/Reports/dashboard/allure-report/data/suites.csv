@@ -1,8 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Sep 30 18:30:47 IST 2022","Fri Sep 30 18:31:03 IST 2022","16359","","test_dashboard","TestDashboardPage","","","test_startdate_enddate_savebutton_onDashboard",""
-"passed","Fri Sep 30 18:28:37 IST 2022","Fri Sep 30 18:28:50 IST 2022","12761","","test_dashboard","TestDashboardPage","","","test_total_running_pending_session",""
-"passed","Fri Sep 30 18:26:32 IST 2022","Fri Sep 30 18:26:44 IST 2022","12425","","test_dashboard","Test_Session_Page","","","test_charts_text_onDashbord",""
-"passed","Fri Sep 30 18:30:03 IST 2022","Fri Sep 30 18:30:17 IST 2022","13680","","test_dashboard","TestDashboardPage","","","test_recentActivity_text_onDashboard",""
-"passed","Fri Sep 30 18:26:04 IST 2022","Fri Sep 30 18:26:13 IST 2022","9206","","test_dashboard","Test_Session_Page","","","test_total_running_pending_session",""
-"passed","Fri Sep 30 18:27:03 IST 2022","Fri Sep 30 18:27:15 IST 2022","12323","","test_dashboard","Test_Session_Page","","","test_recentActivity_text_onDashboard",""
-"passed","Fri Sep 30 18:29:20 IST 2022","Fri Sep 30 18:29:33 IST 2022","13565","","test_dashboard","TestDashboardPage","","","test_charts_text_onDashbord",""

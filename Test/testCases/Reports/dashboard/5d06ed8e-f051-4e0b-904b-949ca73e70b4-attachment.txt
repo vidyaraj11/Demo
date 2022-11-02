@@ -1,5 +1,0 @@
-[32mINFO    [0m root:DashboardPage.py:78 ********** successfully signin *********
-[32mINFO    [0m root:DashboardPage.py:80 ********routed on organisation list page *********
-[32mINFO    [0m root:DashboardPage.py:82 ********clicked on explore button *********
-[32mINFO    [0m root:DashboardPage.py:85 ********routed on dashboard page *********
-[32mINFO    [0m root:DashboardPage.py:88 ******** chart text found on dashboard page *********
