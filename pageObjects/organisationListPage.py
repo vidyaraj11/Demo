@@ -60,7 +60,6 @@ class organisationList:
         organisation_list = ["vidya-cloudify8", "vidya-testing2"]
 
         for x in organisation_list:
-            # (//button[text()='Explore'])[1]
             xpath = "(//span[text()='"+x+"']//following-sibling::div//button)[2]"
             self.driver.find_element(By.XPATH, xpath).click()
             time.sleep(2)
