@@ -1,6 +1,0 @@
-[32mINFO    [0m root:HistorySessionPage.py:88 ********** successfully signin *********
-[32mINFO    [0m root:HistorySessionPage.py:90 ********routed on organisation list page *********
-[32mINFO    [0m root:HistorySessionPage.py:92 ********clicked on explore button *********
-[32mINFO    [0m root:HistorySessionPage.py:95 ********** Routed on history session page *********
-[32mINFO    [0m root:HistorySessionPage.py:98 ***** save video text found inside filter table ********
-[32mINFO    [0m root:HistorySessionPage.py:99 ****test case pass*********

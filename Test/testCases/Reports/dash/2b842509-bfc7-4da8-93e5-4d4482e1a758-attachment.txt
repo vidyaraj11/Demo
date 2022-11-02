@@ -1,7 +1,0 @@
-[32mINFO    [0m root:HistorySessionPage.py:70 ********** successfully signin *********
-[32mINFO    [0m root:HistorySessionPage.py:72 ********routed on organisation list page *********
-[32mINFO    [0m root:HistorySessionPage.py:74 ********clicked on explore button *********
-[32mINFO    [0m root:HistorySessionPage.py:76 ********** Routed on session page *********
-[32mINFO    [0m root:HistorySessionPage.py:78 ********** Routed on history session page *********
-[32mINFO    [0m root:HistorySessionPage.py:81 ***** status text has been found inside filter table ********
-[32mINFO    [0m root:HistorySessionPage.py:82 ****test case pass*********
